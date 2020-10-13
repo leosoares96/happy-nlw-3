@@ -44,7 +44,7 @@
   text-align: right;
 }
 
-.content-wrapper .location {
+.content-wrapper .location strong {
   font-weight: 800;
 }
 
